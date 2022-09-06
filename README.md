@@ -1,6 +1,8 @@
 # Capybara
 * Praticando a automação de testes na Web.
 
+![Capybara - Framework](/spec/fixtures/capybara.png)
+
 ## Configuração: Pré-requisitos
 * ChromeDriver
 * GeckoDriver
