@@ -14,7 +14,7 @@ Download (Firefox) [Geckodriver](https://github.com/mozilla/geckodriver/releases
 
 ## Vamos tomar como exemlo, primeiro, o navegador Chrome:
 
-Download (Chrome) [ChromeDriver](ttps://chromedriver.chromium.org/downloads) - Fique atento à versão do seu navegador.
+Download (Chrome) [ChromeDriver](https://chromedriver.chromium.org/downloads) - Fique atento à versão do seu navegador.
 
 
 Após o download:
